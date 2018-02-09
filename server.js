@@ -19,8 +19,8 @@ app.get('/', function (req, response) {
         body.result.forEach(function (item) {
             if (item.phase === 'BEFORE' && item.name.includes('Div. 2')) {
                 let event = {
-                    'start': {'dateTime': date.addSeconds(now, -item.relativeTimeSeconds + 19800)},
-                    'end': {'dateTime': date.addSeconds(now, -item.relativeTimeSeconds + 19800 + item.durationSeconds)},
+                    'start': {'dateTime': date.addSeconds(now, -item.relativeTimeSeconds)},
+                    'end': {'dateTime': date.addSeconds(now, -item.relativeTimeSeconds + item.durationSeconds)},
                     'summary': item.name,
                     'status': 'confirmed',
                     'description': '',
@@ -30,67 +30,50 @@ app.get('/', function (req, response) {
             }
         });
 
-        data = [{
-            'start': {'dateTime': '2018-02-20T07:00:00+08:00'},
-            'end': {'dateTime': '2018-02-20T08:00:00+08:00'},
-            'location': 'Coffeeshop',
-            'summary': 'Breakfast',
-            'status': 'confirmed',
-            'description': '',
-            'colorId': 1
-        }]
-        response.send(data);
-        // console.log(data.length);
-        data.forEach(function (event) {
-            var list = [];
-            var start = event.start.dateTime;
-            var end = event.end.dateTime;
-            let params = {
-                timeMin: start,
-                timeMax: end,
-                // q: 'query term',
-                singleEvents: true,
-                orderBy: 'startTime'
-            }; 	//Optional query parameters referencing google APIs
+        var temp = data[data.length - 1];
+        response.send(temp);
+        console.log();
 
-            cal.Events.list(calendarId, params)
-                .then(json => {
-                    //Success
-                    console.log('List of events on calendar within time-range:');
-                    // console.log(json + "+" + typeof json);
-                    list = Object.values(json);
-                    // console.log(list + "+" + typeof list);
-                    // console.log('----------------------------------------------------------------------------------------\n')
-                    list.forEach(function (item) {
-                        // console.log("inside foreach" + item.kind + "   " + item.id);
+        var list = [];
+        var start = date.addSeconds(temp.start.dateTime, 19800).toISOString().substring(0, 19) + "+05:30";
+        var end = date.addSeconds(temp.start.dateTime, 27000).toISOString().substring(0, 19) + "+05:30";
+        let params = {
+            timeMin: start,
+            timeMax: end,
+            //q : 'query term'',
+            singleEvents: true,
+            orderBy: 'startTime'
+        }; 	//Optional query parameters referencing google APIs
 
-                        if (item.summary === event.summary) {
-                            let params = {
-                                sendNotifications: true
-                            };
-
-                            cal.Events.delete(calendarId, item.id, params)
-                                .then(results => {
-                                    console.log('delete Event:' + JSON.stringify(results));
-                                }).catch(err => {
-                                console.log('Error deleteEvent:' + JSON.stringify(err.message));
-                            });
-                        }
-                    })
-                    cal.Events.insert(calendarId, event)
-                        .then(resp => {
-                            console.log('inserted event:');
-                            console.log(resp);
-                        })
-                        .catch(err => {
-                            console.log('Error: insertEvent-' + err.message);
+        cal.Events.list(calendarId, params)
+            .then(json => {
+                console.log('List of events on calendar within time-range:');
+                list = Object.values(json);
+                list.forEach(function (item) {
+                    console.log("inside foreach" + item.summary + "   " + item.id);
+                    if (item.summary === temp.summary) {
+                        let params = {
+                            sendNotifications: true
+                        };
+                        cal.Events.delete(calendarId, item.id, params)
+                            .then(results => {
+                                console.log('delete Event:' + JSON.stringify(results));
+                            }).catch(err => {
+                            console.log('Error deleteEvent:' + JSON.stringify(err.message));
                         });
-                }).catch(err => {
-                //Error
-                console.log('Error: listSingleEvents -' + err.message);
-            });
+                    }
+                })
+            }).catch(err => {
+            console.log('Error: listSingleEvents -' + err.message);
         });
+        cal.Events.insert(calendarId, temp)
+            .then(resp => {
+                console.log('inserted event:');
+                console.log(resp);
+            })
+            .catch(err => {
+                console.log('Error: insertEvent-' + err.message);
+            });
     });
 });
-
 app.listen(process.env.PORT || 8000);
