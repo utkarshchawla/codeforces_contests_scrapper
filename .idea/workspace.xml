@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="76e0658e-ff8a-4a8f-8342-35937c066508" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,14 +26,15 @@
       <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            <state relative-caret-position="162">
+              <caret line="68" column="55" lean-forward="true" selection-start-line="68" selection-start-column="55" selection-end-line="68" selection-end-column="55" />
               <folding>
-                <element signature="e#634#708#0" expanded="true" />
-                <element signature="e#728#793#0" expanded="true" />
-                <element signature="e#836#1473#0" expanded="true" />
-                <element signature="e#956#1469#0" expanded="true" />
-                <element signature="e#1065#1397#0" expanded="true" />
+                <element signature="e#623#1184#0" expanded="true" />
+                <element signature="e#2934#3061#0" expanded="true" />
+                <element signature="e#3076#3204#0" expanded="true" />
+                <element signature="e#3351#3485#0" expanded="true" />
+                <element signature="e#3525#3630#0" expanded="true" />
+                <element signature="e#3665#3776#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,12 +181,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518164851695</updated>
-      <workItem from="1518164852984" duration="13317000" />
+      <workItem from="1518164852984" duration="17979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13317000" />
+    <option name="totallyTimeSpent" value="17979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -264,14 +263,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        <state relative-caret-position="162">
+          <caret line="68" column="55" lean-forward="true" selection-start-line="68" selection-start-column="55" selection-end-line="68" selection-end-column="55" />
           <folding>
-            <element signature="e#634#708#0" expanded="true" />
-            <element signature="e#728#793#0" expanded="true" />
-            <element signature="e#836#1473#0" expanded="true" />
-            <element signature="e#956#1469#0" expanded="true" />
-            <element signature="e#1065#1397#0" expanded="true" />
+            <element signature="e#623#1184#0" expanded="true" />
+            <element signature="e#2934#3061#0" expanded="true" />
+            <element signature="e#3076#3204#0" expanded="true" />
+            <element signature="e#3351#3485#0" expanded="true" />
+            <element signature="e#3525#3630#0" expanded="true" />
+            <element signature="e#3665#3776#0" expanded="true" />
           </folding>
         </state>
       </provider>
