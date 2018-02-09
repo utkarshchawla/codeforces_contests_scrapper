@@ -13,6 +13,7 @@
     "cheerio": "^1.0.0-rc.2",
     "date-and-time": "^0.6.2",
     "express": "^4.16.2",
+    "node-google-calendar": "^1.1.1",
     "request": "^2.83.0"
   }
 }

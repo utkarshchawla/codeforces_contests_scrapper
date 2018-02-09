@@ -4,6 +4,28 @@ var request = require('request');
 var fs = require('fs');
 var app = express();
 var date = require('date-and-time');
+const CONFIG = require('./settings');
+const CalendarAPI = require('node-google-calendar');
+var cal = new CalendarAPI(CONFIG);
+
+let event = {
+    'start': {'dateTime': '2018-02-20T07:00:00+08:00'},
+    'end': {'dateTime': '2018-02-20T08:00:00+08:00'},
+    'location': 'Coffeeshop',
+    'summary': 'Breakfast',
+    'status': 'confirmed',
+    'description': '',
+    'colorId': 1
+};
+
+cal.Events.insert(CONFIG.calendarId.primary, event)
+    .then(resp => {
+        console.log('inserted event:');
+        console.log(resp);
+    })
+    .catch(err => {
+        console.log('Error: insertEvent-' + err.message);
+    });
 
 
 app.get('/', function (req, response) {
