@@ -30,50 +30,51 @@ app.get('/', function (req, response) {
             }
         });
 
-        var temp = data[data.length - 1];
-        response.send(temp);
-        console.log();
+        response.send(data);
 
-        var list = [];
-        var start = date.addSeconds(temp.start.dateTime, 19800).toISOString().substring(0, 19) + "+05:30";
-        var end = date.addSeconds(temp.start.dateTime, 27000).toISOString().substring(0, 19) + "+05:30";
-        let params = {
-            timeMin: start,
-            timeMax: end,
-            //q : 'query term'',
-            singleEvents: true,
-            orderBy: 'startTime'
-        }; 	//Optional query parameters referencing google APIs
+        data.forEach(function (event) {
 
-        cal.Events.list(calendarId, params)
-            .then(json => {
-                console.log('List of events on calendar within time-range:');
-                list = Object.values(json);
-                list.forEach(function (item) {
-                    console.log("inside foreach" + item.summary + "   " + item.id);
-                    if (item.summary === temp.summary) {
-                        let params = {
-                            sendNotifications: true
-                        };
-                        cal.Events.delete(calendarId, item.id, params)
-                            .then(results => {
-                                console.log('delete Event:' + JSON.stringify(results));
-                            }).catch(err => {
-                            console.log('Error deleteEvent:' + JSON.stringify(err.message));
-                        });
-                    }
-                })
-            }).catch(err => {
-            console.log('Error: listSingleEvents -' + err.message);
-        });
-        cal.Events.insert(calendarId, temp)
-            .then(resp => {
-                console.log('inserted event:');
-                console.log(resp);
-            })
-            .catch(err => {
-                console.log('Error: insertEvent-' + err.message);
+            var list = [];
+            var start = date.addSeconds(event.start.dateTime, 19800).toISOString().substring(0, 19) + "+05:30";
+            var end = date.addSeconds(event.start.dateTime, 27000).toISOString().substring(0, 19) + "+05:30";
+            let params = {
+                timeMin: start,
+                timeMax: end,
+                //q : 'query term'',
+                singleEvents: true,
+                orderBy: 'startTime'
+            }; 	//Optional query parameters referencing google APIs
+
+            cal.Events.list(calendarId, params)
+                .then(json => {
+                    console.log('List of events on calendar within time-range:');
+                    list = Object.values(json);
+                    list.forEach(function (item) {
+                        console.log("inside foreach" + item.summary + "   " + item.id);
+                        if (item.summary === event.summary) {
+                            let params = {
+                                sendNotifications: true
+                            };
+                            cal.Events.delete(calendarId, item.id, params)
+                                .then(results => {
+                                    console.log('delete Event:' + JSON.stringify(results));
+                                }).catch(err => {
+                                console.log('Error deleteEvent:' + JSON.stringify(err.message));
+                            });
+                        }
+                    })
+                }).catch(err => {
+                console.log('Error: listSingleEvents -' + err.message);
             });
+            cal.Events.insert(calendarId, event)
+                .then(resp => {
+                    console.log('inserted event:');
+                    console.log(resp);
+                })
+                .catch(err => {
+                    console.log('Error: insertEvent-' + err.message);
+                });
+        });
     });
 });
 app.listen(process.env.PORT || 8000);
