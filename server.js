@@ -9,10 +9,10 @@ const CalendarAPI = require('node-google-calendar');
 var cal = new CalendarAPI(CONFIG);
 var calendarId = CONFIG.calendarId.primary;
 
-
+var url = 'http://codeforces.com/api/contest.list';
+var data = [];
 app.get('/', function (req, response) {
-    var url = 'http://codeforces.com/api/contest.list';
-    var data = [];
+
     request(url, function (err, res, body) {
         body = JSON.parse(body);
         var now = new Date();
@@ -24,14 +24,13 @@ app.get('/', function (req, response) {
                     'summary': item.name,
                     'status': 'confirmed',
                     'description': '',
-                    'colorId': 1
+                    'colorId': 11
                 };
                 data.push(event);
             }
         });
 
-        response.send(data);
-
+        // response.send(data);
         data.forEach(function (event) {
 
             var list = [];
@@ -76,5 +75,7 @@ app.get('/', function (req, response) {
                 });
         });
     });
+    response.send('done');
 });
 app.listen(process.env.PORT || 8000);
+// module.exports = app;

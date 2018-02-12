@@ -1,0 +1,1282 @@
+List of events on calendar within time-range:
+inside foreachCodeforces Round #465 (Div. 2)   d694qre36034g0afpjae9j7h9s
+List of events on calendar within time-range:
+inside foreachICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)   t7325tvtufk06p18hca04g634s
+List of events on calendar within time-range:
+inside foreachEducational Codeforces Round 38 (Rated for Div. 2)   o2irp845ttifk11p3ud481khso
+List of events on calendar within time-range:
+inside foreachCodeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)   5k7cd0kusiri84j9t2i8rt8odk
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396449586000"',
+  id: 'd86n2k5ksplb7ek81vvscqahug',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=ZDg2bjJrNWtzcGxiN2VrODF2dnNjcWFodWcgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:44.000Z',
+  updated: '2018-02-09T17:43:44.793Z',
+  summary: 'Codeforces Round #465 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-25T20:05:09+05:30' },
+  end: { dateTime: '2018-02-25T22:05:09+05:30' },
+  iCalUID: 'd86n2k5ksplb7ek81vvscqahug@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+List of events on calendar within time-range:
+inside foreachCodeforces Round #462 (Div. 2)   5i45djla5aoujo98fo5nqot2og
+List of events on calendar within time-range:
+inside foreachCodeforces Round #464 (Div. 2)   rqipv8fu48npiirjvlg14he6ck
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396449888000"',
+  id: 'hnu8slrev99bmlepdlb0t1o3p4',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=aG51OHNscmV2OTlibWxlcGRsYjB0MW8zcDQgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:44.000Z',
+  updated: '2018-02-09T17:43:44.944Z',
+  summary: 'Codeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-03-04T21:05:09+05:30' },
+  end: { dateTime: '2018-03-04T23:05:09+05:30' },
+  iCalUID: 'hnu8slrev99bmlepdlb0t1o3p4@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396451164000"',
+  id: 'sg842kdigc886930lrjpu4aros',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=c2c4NDJrZGlnYzg4NjkzMGxyanB1NGFyb3MgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:44.000Z',
+  updated: '2018-02-09T17:43:45.582Z',
+  summary: 'Codeforces Round #464 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-19T22:05:09+05:30' },
+  end: { dateTime: '2018-02-20T00:05:09+05:30' },
+  iCalUID: 'sg842kdigc886930lrjpu4aros@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396451416000"',
+  id: '849mvnb9jnstj7vfmkgjra0310',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=ODQ5bXZuYjlqbnN0ajd2Zm1rZ2pyYTAzMTAgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:44.000Z',
+  updated: '2018-02-09T17:43:45.708Z',
+  summary: 'Educational Codeforces Round 38 (Rated for Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-16T20:35:09+05:30' },
+  end: { dateTime: '2018-02-16T22:35:09+05:30' },
+  iCalUID: '849mvnb9jnstj7vfmkgjra0310@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396451554000"',
+  id: 'vf8tslq1fja9fhgv7fievshha4',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=dmY4dHNscTFmamE5ZmhndjdmaWV2c2hoYTQgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:44.000Z',
+  updated: '2018-02-09T17:43:45.777Z',
+  summary: 'Codeforces Round #462 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-14T17:35:10+05:30' },
+  end: { dateTime: '2018-02-14T19:35:10+05:30' },
+  iCalUID: 'vf8tslq1fja9fhgv7fievshha4@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"rqipv8fu48npiirjvlg14he6ck","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396453062000"',
+  id: 'brr97q7200omc50ghalbfesg88',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=YnJyOTdxNzIwMG9tYzUwZ2hhbGJmZXNnODggOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:44.000Z',
+  updated: '2018-02-09T17:43:46.531Z',
+  summary: 'ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-15T20:05:09+05:30' },
+  end: { dateTime: '2018-02-15T22:05:09+05:30' },
+  iCalUID: 'brr97q7200omc50ghalbfesg88@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"5i45djla5aoujo98fo5nqot2og","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"5k7cd0kusiri84j9t2i8rt8odk","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"t7325tvtufk06p18hca04g634s","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"o2irp845ttifk11p3ud481khso","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"d694qre36034g0afpjae9j7h9s","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+List of events on calendar within time-range:
+inside foreachCodeforces Round #464 (Div. 2)   sg842kdigc886930lrjpu4aros
+List of events on calendar within time-range:
+inside foreachCodeforces Round #462 (Div. 2)   vf8tslq1fja9fhgv7fievshha4
+List of events on calendar within time-range:
+inside foreachICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)   brr97q7200omc50ghalbfesg88
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396469092000"',
+  id: '88vbd4agv4qu7aks1lfpmfmjdg',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=ODh2YmQ0YWd2NHF1N2FrczFsZnBtZm1qZGcgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:54.000Z',
+  updated: '2018-02-09T17:43:54.546Z',
+  summary: 'Codeforces Round #464 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-19T22:05:01+05:30' },
+  end: { dateTime: '2018-02-20T00:05:01+05:30' },
+  iCalUID: '88vbd4agv4qu7aks1lfpmfmjdg@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396468876000"',
+  id: '444bkj7k37ok3iie55vqe2s37k',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=NDQ0YmtqN2szN29rM2lpZTU1dnFlMnMzN2sgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:54.000Z',
+  updated: '2018-02-09T17:43:54.438Z',
+  summary: 'Educational Codeforces Round 38 (Rated for Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-16T20:35:01+05:30' },
+  end: { dateTime: '2018-02-16T22:35:01+05:30' },
+  iCalUID: '444bkj7k37ok3iie55vqe2s37k@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396469380000"',
+  id: 'oidb6fas862ehonvm6d4lksafk',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=b2lkYjZmYXM4NjJlaG9udm02ZDRsa3NhZmsgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:54.000Z',
+  updated: '2018-02-09T17:43:54.690Z',
+  summary: 'Codeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-03-04T21:05:01+05:30' },
+  end: { dateTime: '2018-03-04T23:05:01+05:30' },
+  iCalUID: 'oidb6fas862ehonvm6d4lksafk@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396470160000"',
+  id: '80clckf7525e5k21sc8g345ka8',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=ODBjbGNrZjc1MjVlNWsyMXNjOGczNDVrYTggOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:54.000Z',
+  updated: '2018-02-09T17:43:55.080Z',
+  summary: 'Codeforces Round #465 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-25T20:05:01+05:30' },
+  end: { dateTime: '2018-02-25T22:05:01+05:30' },
+  iCalUID: '80clckf7525e5k21sc8g345ka8@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396470726000"',
+  id: 'c3e90evr2k25d1tkpui97s51qs',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=YzNlOTBldnIyazI1ZDF0a3B1aTk3czUxcXMgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:54.000Z',
+  updated: '2018-02-09T17:43:55.363Z',
+  summary: 'ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-15T20:05:01+05:30' },
+  end: { dateTime: '2018-02-15T22:05:01+05:30' },
+  iCalUID: 'c3e90evr2k25d1tkpui97s51qs@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396471450000"',
+  id: 'bu9dm9c65gpk6k74m7jpl256ts',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=YnU5ZG05YzY1Z3BrNms3NG03anBsMjU2dHMgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:43:54.000Z',
+  updated: '2018-02-09T17:43:55.725Z',
+  summary: 'Codeforces Round #462 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-14T17:35:03+05:30' },
+  end: { dateTime: '2018-02-14T19:35:03+05:30' },
+  iCalUID: 'bu9dm9c65gpk6k74m7jpl256ts@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+List of events on calendar within time-range:
+inside foreachCodeforces Round #465 (Div. 2)   d86n2k5ksplb7ek81vvscqahug
+List of events on calendar within time-range:
+inside foreachEducational Codeforces Round 38 (Rated for Div. 2)   849mvnb9jnstj7vfmkgjra0310
+delete Event:{"eventId":"849mvnb9jnstj7vfmkgjra0310","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"d86n2k5ksplb7ek81vvscqahug","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+List of events on calendar within time-range:
+inside foreachCodeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)   hnu8slrev99bmlepdlb0t1o3p4
+delete Event:{"eventId":"hnu8slrev99bmlepdlb0t1o3p4","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+Error deleteEvent:"{\"origin\":\"Events.delete\",\"error\":\"connect ETIMEDOUT 172.217.24.234:443\"}"
+Error deleteEvent:"{\"origin\":\"Events.delete\",\"error\":\"connect ETIMEDOUT 172.217.24.234:443\"}"
+Error deleteEvent:"{\"origin\":\"Events.delete\",\"error\":\"connect ETIMEDOUT 172.217.24.234:443\"}"
+Error: listSingleEvents -{"origin":"Events.list","error":"connect ETIMEDOUT 216.58.221.45:443"}
+Error: insertEvent-{"origin":"Events.insert","error":"connect ETIMEDOUT 216.58.221.45:443"}
+Error: listSingleEvents -{"origin":"Events.list","error":"connect ETIMEDOUT 216.58.221.45:443"}
+Error: insertEvent-{"origin":"Events.insert","error":"connect ETIMEDOUT 216.58.221.45:443"}
+Error: listSingleEvents -{"origin":"Events.list","error":"connect ETIMEDOUT 216.58.221.45:443"}
+Error: insertEvent-{"origin":"Events.insert","error":"connect ETIMEDOUT 216.58.221.45:443"}
+Error: listSingleEvents -{"origin":"Events.list","error":"connect ETIMEDOUT 216.58.221.45:443"}
+Error: insertEvent-{"origin":"Events.insert","error":"connect ETIMEDOUT 216.58.221.45:443"}
+Error: listSingleEvents -{"origin":"Events.list","error":"connect ETIMEDOUT 216.58.221.45:443"}
+Error: insertEvent-{"origin":"Events.insert","error":"connect ETIMEDOUT 216.58.221.45:443"}
+Error: listSingleEvents -{"origin":"Events.list","error":"connect ETIMEDOUT 216.58.221.45:443"}
+Error: insertEvent-{"origin":"Events.insert","error":"connect ETIMEDOUT 216.58.221.45:443"}
+List of events on calendar within time-range:
+inside foreachCodeforces Round #465 (Div. 2)   80clckf7525e5k21sc8g345ka8
+List of events on calendar within time-range:
+inside foreachCodeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)   oidb6fas862ehonvm6d4lksafk
+List of events on calendar within time-range:
+inside foreachCodeforces Round #464 (Div. 2)   88vbd4agv4qu7aks1lfpmfmjdg
+inside foreachCodeforces Round #464 (Div. 2)   sg842kdigc886930lrjpu4aros
+List of events on calendar within time-range:
+inside foreachCodeforces Round #462 (Div. 2)   bu9dm9c65gpk6k74m7jpl256ts
+inside foreachCodeforces Round #462 (Div. 2)   vf8tslq1fja9fhgv7fievshha4
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396578602000"',
+  id: '22edlb3h6226ucpr8h148og4sk',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=MjJlZGxiM2g2MjI2dWNwcjhoMTQ4b2c0c2sgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:44:49.000Z',
+  updated: '2018-02-09T17:44:49.301Z',
+  summary: 'Codeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-03-04T21:05:02+05:30' },
+  end: { dateTime: '2018-03-04T23:05:02+05:30' },
+  iCalUID: '22edlb3h6226ucpr8h148og4sk@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+List of events on calendar within time-range:
+inside foreachEducational Codeforces Round 38 (Rated for Div. 2)   444bkj7k37ok3iie55vqe2s37k
+List of events on calendar within time-range:
+inside foreachICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)   c3e90evr2k25d1tkpui97s51qs
+inside foreachICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)   brr97q7200omc50ghalbfesg88
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396578842000"',
+  id: 'hh3grp3m038r8hdk7f3gjqdclk',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=aGgzZ3JwM20wMzhyOGhkazdmM2dqcWRjbGsgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:44:49.000Z',
+  updated: '2018-02-09T17:44:49.421Z',
+  summary: 'Codeforces Round #465 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-25T20:05:02+05:30' },
+  end: { dateTime: '2018-02-25T22:05:02+05:30' },
+  iCalUID: 'hh3grp3m038r8hdk7f3gjqdclk@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396580292000"',
+  id: 'vncoepu6h37421smhhkvbcsp38',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=dm5jb2VwdTZoMzc0MjFzbWhoa3ZiY3NwMzggOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:44:49.000Z',
+  updated: '2018-02-09T17:44:50.146Z',
+  summary: 'Codeforces Round #464 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-19T22:05:02+05:30' },
+  end: { dateTime: '2018-02-20T00:05:02+05:30' },
+  iCalUID: 'vncoepu6h37421smhhkvbcsp38@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"444bkj7k37ok3iie55vqe2s37k","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"brr97q7200omc50ghalbfesg88","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396581398000"',
+  id: 'bqs7ru0l6g39k1b3026b1g6fpo',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=YnFzN3J1MGw2ZzM5azFiMzAyNmIxZzZmcG8gOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:44:49.000Z',
+  updated: '2018-02-09T17:44:50.699Z',
+  summary: 'Codeforces Round #462 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-14T17:35:04+05:30' },
+  end: { dateTime: '2018-02-14T19:35:04+05:30' },
+  iCalUID: 'bqs7ru0l6g39k1b3026b1g6fpo@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396581844000"',
+  id: '3nqh3c2r53jp4hm8r7cqvrjbac',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=M25xaDNjMnI1M2pwNGhtOHI3Y3F2cmpiYWMgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:44:49.000Z',
+  updated: '2018-02-09T17:44:50.922Z',
+  summary: 'ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-15T20:05:02+05:30' },
+  end: { dateTime: '2018-02-15T22:05:02+05:30' },
+  iCalUID: '3nqh3c2r53jp4hm8r7cqvrjbac@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"88vbd4agv4qu7aks1lfpmfmjdg","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396582564000"',
+  id: 'ai1n58tv4kdmavr2r50fcqh2ek',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=YWkxbjU4dHY0a2RtYXZyMnI1MGZjcWgyZWsgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:44:49.000Z',
+  updated: '2018-02-09T17:44:51.282Z',
+  summary: 'Educational Codeforces Round 38 (Rated for Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-16T20:35:02+05:30' },
+  end: { dateTime: '2018-02-16T22:35:02+05:30' },
+  iCalUID: 'ai1n58tv4kdmavr2r50fcqh2ek@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"c3e90evr2k25d1tkpui97s51qs","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"bu9dm9c65gpk6k74m7jpl256ts","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"sg842kdigc886930lrjpu4aros","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"oidb6fas862ehonvm6d4lksafk","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"80clckf7525e5k21sc8g345ka8","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"vf8tslq1fja9fhgv7fievshha4","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+List of events on calendar within time-range:
+inside foreachCodeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)   22edlb3h6226ucpr8h148og4sk
+List of events on calendar within time-range:
+inside foreachCodeforces Round #464 (Div. 2)   vncoepu6h37421smhhkvbcsp38
+List of events on calendar within time-range:
+inside foreachCodeforces Round #465 (Div. 2)   hh3grp3m038r8hdk7f3gjqdclk
+List of events on calendar within time-range:
+inside foreachICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)   3nqh3c2r53jp4hm8r7cqvrjbac
+List of events on calendar within time-range:
+inside foreachEducational Codeforces Round 38 (Rated for Div. 2)   ai1n58tv4kdmavr2r50fcqh2ek
+List of events on calendar within time-range:
+inside foreachCodeforces Round #462 (Div. 2)   bqs7ru0l6g39k1b3026b1g6fpo
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396620132000"',
+  id: '890qaqf0trlc7clp9pvpscj7f0',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=ODkwcWFxZjB0cmxjN2NscDlwdnBzY2o3ZjAgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:45:09.000Z',
+  updated: '2018-02-09T17:45:10.066Z',
+  summary: 'Codeforces Round #464 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-19T22:05:01+05:30' },
+  end: { dateTime: '2018-02-20T00:05:01+05:30' },
+  iCalUID: '890qaqf0trlc7clp9pvpscj7f0@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396620338000"',
+  id: 'h9udtvau7sk78d5nbhd8e1uum0',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=aDl1ZHR2YXU3c2s3OGQ1bmJoZDhlMXV1bTAgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:45:09.000Z',
+  updated: '2018-02-09T17:45:10.169Z',
+  summary: 'Codeforces Round #462 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-14T17:35:01+05:30' },
+  end: { dateTime: '2018-02-14T19:35:01+05:30' },
+  iCalUID: 'h9udtvau7sk78d5nbhd8e1uum0@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396620808000"',
+  id: 'rmnbv9kc4lfu3c018l9310f0u8',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=cm1uYnY5a2M0bGZ1M2MwMThsOTMxMGYwdTggOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:45:09.000Z',
+  updated: '2018-02-09T17:45:10.404Z',
+  summary: 'Codeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-03-04T21:05:01+05:30' },
+  end: { dateTime: '2018-03-04T23:05:01+05:30' },
+  iCalUID: 'rmnbv9kc4lfu3c018l9310f0u8@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396621472000"',
+  id: 'g0t5trc3moaol8h6f7k1fb1ns0',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=ZzB0NXRyYzNtb2FvbDhoNmY3azFmYjFuczAgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:45:09.000Z',
+  updated: '2018-02-09T17:45:10.736Z',
+  summary: 'ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-15T20:05:01+05:30' },
+  end: { dateTime: '2018-02-15T22:05:01+05:30' },
+  iCalUID: 'g0t5trc3moaol8h6f7k1fb1ns0@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"ai1n58tv4kdmavr2r50fcqh2ek","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"vncoepu6h37421smhhkvbcsp38","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"3nqh3c2r53jp4hm8r7cqvrjbac","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"hh3grp3m038r8hdk7f3gjqdclk","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396623236000"',
+  id: '90r3ou0fq18bh84gu9e6s8mn40',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=OTByM291MGZxMThiaDg0Z3U5ZTZzOG1uNDAgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:45:09.000Z',
+  updated: '2018-02-09T17:45:11.618Z',
+  summary: 'Educational Codeforces Round 38 (Rated for Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-16T20:35:01+05:30' },
+  end: { dateTime: '2018-02-16T22:35:01+05:30' },
+  iCalUID: '90r3ou0fq18bh84gu9e6s8mn40@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396623444000"',
+  id: 'q1qdq0v6eu51einbv117skhqig',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=cTFxZHEwdjZldTUxZWluYnYxMTdza2hxaWcgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:45:09.000Z',
+  updated: '2018-02-09T17:45:11.722Z',
+  summary: 'Codeforces Round #465 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-25T20:05:01+05:30' },
+  end: { dateTime: '2018-02-25T22:05:01+05:30' },
+  iCalUID: 'q1qdq0v6eu51einbv117skhqig@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"22edlb3h6226ucpr8h148og4sk","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"bqs7ru0l6g39k1b3026b1g6fpo","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+List of events on calendar within time-range:
+inside foreachEducational Codeforces Round 38 (Rated for Div. 2)   90r3ou0fq18bh84gu9e6s8mn40
+List of events on calendar within time-range:
+inside foreachCodeforces Round #462 (Div. 2)   h9udtvau7sk78d5nbhd8e1uum0
+delete Event:{"eventId":"90r3ou0fq18bh84gu9e6s8mn40","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"h9udtvau7sk78d5nbhd8e1uum0","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396657304000"',
+  id: '04u8pb1c3pk1diavs68abistt8',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=MDR1OHBiMWMzcGsxZGlhdnM2OGFiaXN0dDggOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:45:28.000Z',
+  updated: '2018-02-09T17:45:28.652Z',
+  summary: 'Codeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-03-04T21:05:02+05:30' },
+  end: { dateTime: '2018-03-04T23:05:02+05:30' },
+  iCalUID: '04u8pb1c3pk1diavs68abistt8@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+List of events on calendar within time-range:
+inside foreachCodeforces Round #465 (Div. 2)   q1qdq0v6eu51einbv117skhqig
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396657524000"',
+  id: 'mhg9irq4us7mo56jkklh78fn70',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=bWhnOWlycTR1czdtbzU2amtrbGg3OGZuNzAgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:45:28.000Z',
+  updated: '2018-02-09T17:45:28.762Z',
+  summary: 'Codeforces Round #465 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-25T20:05:02+05:30' },
+  end: { dateTime: '2018-02-25T22:05:02+05:30' },
+  iCalUID: 'mhg9irq4us7mo56jkklh78fn70@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396659266000"',
+  id: 'kta7drh93dppsae8vn4mhbd5qo',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=a3RhN2RyaDkzZHBwc2FlOHZuNG1oYmQ1cW8gOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:45:28.000Z',
+  updated: '2018-02-09T17:45:29.633Z',
+  summary: 'Codeforces Round #462 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-14T17:35:03+05:30' },
+  end: { dateTime: '2018-02-14T19:35:03+05:30' },
+  iCalUID: 'kta7drh93dppsae8vn4mhbd5qo@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+List of events on calendar within time-range:
+inside foreachCodeforces Round #464 (Div. 2)   890qaqf0trlc7clp9pvpscj7f0
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396660034000"',
+  id: 'p4ro5vibtdbcl152jgrggrk18c',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=cDRybzV2aWJ0ZGJjbDE1MmpncmdncmsxOGMgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:45:28.000Z',
+  updated: '2018-02-09T17:45:30.017Z',
+  summary: 'Educational Codeforces Round 38 (Rated for Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-16T20:35:02+05:30' },
+  end: { dateTime: '2018-02-16T22:35:02+05:30' },
+  iCalUID: 'p4ro5vibtdbcl152jgrggrk18c@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"890qaqf0trlc7clp9pvpscj7f0","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"q1qdq0v6eu51einbv117skhqig","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+Error: listSingleEvents -{"origin":"Events.list","error":"connect ETIMEDOUT 172.217.24.234:443"}
+Error: insertEvent-{"origin":"Events.insert","error":"connect ETIMEDOUT 172.217.24.234:443"}
+Error: listSingleEvents -{"origin":"Events.list","error":"connect ETIMEDOUT 172.217.24.234:443"}
+Error: insertEvent-{"origin":"Events.insert","error":"connect ETIMEDOUT 172.217.24.234:443"}
+List of events on calendar within time-range:
+List of events on calendar within time-range:
+inside foreachICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)   g0t5trc3moaol8h6f7k1fb1ns0
+List of events on calendar within time-range:
+inside foreachCodeforces Round #462 (Div. 2)   kta7drh93dppsae8vn4mhbd5qo
+List of events on calendar within time-range:
+inside foreachEducational Codeforces Round 38 (Rated for Div. 2)   p4ro5vibtdbcl152jgrggrk18c
+List of events on calendar within time-range:
+inside foreachCodeforces Round #465 (Div. 2)   mhg9irq4us7mo56jkklh78fn70
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396954062000"',
+  id: 's0gfb5fa7uvgkp6ccae9gjmqko',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=czBnZmI1ZmE3dXZna3A2Y2NhZTlnam1xa28gOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:47:56.000Z',
+  updated: '2018-02-09T17:47:57.031Z',
+  summary: 'Codeforces Round #462 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-14T17:35:03+05:30' },
+  end: { dateTime: '2018-02-14T19:35:03+05:30' },
+  iCalUID: 's0gfb5fa7uvgkp6ccae9gjmqko@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396954314000"',
+  id: 'jkqus7u6ttm1lkdlluuq5votto',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=amtxdXM3dTZ0dG0xbGtkbGx1dXE1dm90dG8gOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:47:57.000Z',
+  updated: '2018-02-09T17:47:57.157Z',
+  summary: 'ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-15T20:05:01+05:30' },
+  end: { dateTime: '2018-02-15T22:05:01+05:30' },
+  iCalUID: 'jkqus7u6ttm1lkdlluuq5votto@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+List of events on calendar within time-range:
+inside foreachCodeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)   rmnbv9kc4lfu3c018l9310f0u8
+inside foreachCodeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)   04u8pb1c3pk1diavs68abistt8
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396954714000"',
+  id: 'vjlvsrnejhr22sdpkr0c8nmj8c',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=dmpsdnNybmVqaHIyMnNkcGtyMGM4bm1qOGMgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:47:56.000Z',
+  updated: '2018-02-09T17:47:57.357Z',
+  summary: 'Codeforces Round #465 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-25T20:05:01+05:30' },
+  end: { dateTime: '2018-02-25T22:05:01+05:30' },
+  iCalUID: 'vjlvsrnejhr22sdpkr0c8nmj8c@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396955358000"',
+  id: 'all4rba5gc5kh6n1c0vceob0hk',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=YWxsNHJiYTVnYzVraDZuMWMwdmNlb2IwaGsgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:47:56.000Z',
+  updated: '2018-02-09T17:47:57.679Z',
+  summary: 'Codeforces Round #464 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-19T22:05:01+05:30' },
+  end: { dateTime: '2018-02-20T00:05:01+05:30' },
+  iCalUID: 'all4rba5gc5kh6n1c0vceob0hk@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"mhg9irq4us7mo56jkklh78fn70","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"rmnbv9kc4lfu3c018l9310f0u8","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"04u8pb1c3pk1diavs68abistt8","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396956692000"',
+  id: '97jjqc6f7bj30dm5ti2t8ll650',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=OTdqanFjNmY3YmozMGRtNXRpMnQ4bGw2NTAgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:47:56.000Z',
+  updated: '2018-02-09T17:47:58.346Z',
+  summary: 'Educational Codeforces Round 38 (Rated for Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-16T20:35:01+05:30' },
+  end: { dateTime: '2018-02-16T22:35:01+05:30' },
+  iCalUID: '97jjqc6f7bj30dm5ti2t8ll650@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"g0t5trc3moaol8h6f7k1fb1ns0","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"p4ro5vibtdbcl152jgrggrk18c","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396957568000"',
+  id: 'cfc3126sbi7o9almg9d6ueivp0',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=Y2ZjMzEyNnNiaTdvOWFsbWc5ZDZ1ZWl2cDAgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:47:56.000Z',
+  updated: '2018-02-09T17:47:58.784Z',
+  summary: 'Codeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-03-04T21:05:01+05:30' },
+  end: { dateTime: '2018-03-04T23:05:01+05:30' },
+  iCalUID: 'cfc3126sbi7o9almg9d6ueivp0@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"kta7drh93dppsae8vn4mhbd5qo","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+List of events on calendar within time-range:
+inside foreachCodeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)   cfc3126sbi7o9almg9d6ueivp0
+List of events on calendar within time-range:
+inside foreachEducational Codeforces Round 38 (Rated for Div. 2)   97jjqc6f7bj30dm5ti2t8ll650
+List of events on calendar within time-range:
+inside foreachCodeforces Round #462 (Div. 2)   s0gfb5fa7uvgkp6ccae9gjmqko
+List of events on calendar within time-range:
+inside foreachCodeforces Round #465 (Div. 2)   vjlvsrnejhr22sdpkr0c8nmj8c
+List of events on calendar within time-range:
+inside foreachICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)   jkqus7u6ttm1lkdlluuq5votto
+List of events on calendar within time-range:
+inside foreachCodeforces Round #464 (Div. 2)   all4rba5gc5kh6n1c0vceob0hk
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396972176000"',
+  id: 'qh0k2cra01o4nlr35tae363bh4',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=cWgwazJjcmEwMW80bmxyMzV0YWUzNjNiaDQgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:05.000Z',
+  updated: '2018-02-09T17:48:06.088Z',
+  summary: 'Codeforces Round #464 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-19T22:05:02+05:30' },
+  end: { dateTime: '2018-02-20T00:05:02+05:30' },
+  iCalUID: 'qh0k2cra01o4nlr35tae363bh4@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396972674000"',
+  id: 'mampevmrku123c47k0o7etqu64',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=bWFtcGV2bXJrdTEyM2M0N2swbzdldHF1NjQgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:05.000Z',
+  updated: '2018-02-09T17:48:06.337Z',
+  summary: 'Educational Codeforces Round 38 (Rated for Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-16T20:35:02+05:30' },
+  end: { dateTime: '2018-02-16T22:35:02+05:30' },
+  iCalUID: 'mampevmrku123c47k0o7etqu64@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"97jjqc6f7bj30dm5ti2t8ll650","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"all4rba5gc5kh6n1c0vceob0hk","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"s0gfb5fa7uvgkp6ccae9gjmqko","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396974068000"',
+  id: '4if5f8opt4sc028ps1t6umbkc8',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=NGlmNWY4b3B0NHNjMDI4cHMxdDZ1bWJrYzggOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:05.000Z',
+  updated: '2018-02-09T17:48:07.034Z',
+  summary: 'Codeforces Round #462 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-14T17:35:03+05:30' },
+  end: { dateTime: '2018-02-14T19:35:03+05:30' },
+  iCalUID: '4if5f8opt4sc028ps1t6umbkc8@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396974652000"',
+  id: 'f4vn4qkrfsqdpbt5evrhhqmdlo',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=ZjR2bjRxa3Jmc3FkcGJ0NWV2cmhocW1kbG8gOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:05.000Z',
+  updated: '2018-02-09T17:48:07.326Z',
+  summary: 'Codeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-03-04T21:05:02+05:30' },
+  end: { dateTime: '2018-03-04T23:05:02+05:30' },
+  iCalUID: 'f4vn4qkrfsqdpbt5evrhhqmdlo@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"vjlvsrnejhr22sdpkr0c8nmj8c","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"cfc3126sbi7o9almg9d6ueivp0","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"jkqus7u6ttm1lkdlluuq5votto","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396976320000"',
+  id: '0cg07kff47190nrdere8urrtj0',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=MGNnMDdrZmY0NzE5MG5yZGVyZTh1cnJ0ajAgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:05.000Z',
+  updated: '2018-02-09T17:48:08.160Z',
+  summary: 'ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-15T20:05:02+05:30' },
+  end: { dateTime: '2018-02-15T22:05:02+05:30' },
+  iCalUID: '0cg07kff47190nrdere8urrtj0@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396976870000"',
+  id: 'caedacsof1kln88181ol5h7fq0',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=Y2FlZGFjc29mMWtsbjg4MTgxb2w1aDdmcTAgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:05.000Z',
+  updated: '2018-02-09T17:48:08.435Z',
+  summary: 'Codeforces Round #465 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-25T20:05:02+05:30' },
+  end: { dateTime: '2018-02-25T22:05:02+05:30' },
+  iCalUID: 'caedacsof1kln88181ol5h7fq0@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+List of events on calendar within time-range:
+inside foreachCodeforces Round #462 (Div. 2)   4if5f8opt4sc028ps1t6umbkc8
+List of events on calendar within time-range:
+inside foreachCodeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)   f4vn4qkrfsqdpbt5evrhhqmdlo
+List of events on calendar within time-range:
+inside foreachCodeforces Round #464 (Div. 2)   qh0k2cra01o4nlr35tae363bh4
+List of events on calendar within time-range:
+inside foreachCodeforces Round #465 (Div. 2)   caedacsof1kln88181ol5h7fq0
+List of events on calendar within time-range:
+inside foreachICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)   0cg07kff47190nrdere8urrtj0
+List of events on calendar within time-range:
+inside foreachEducational Codeforces Round 38 (Rated for Div. 2)   mampevmrku123c47k0o7etqu64
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396989204000"',
+  id: 'ujrj1llukqt2deaole3meik56g',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=dWpyajFsbHVrcXQyZGVhb2xlM21laWs1NmcgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:14.000Z',
+  updated: '2018-02-09T17:48:14.602Z',
+  summary: 'ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-15T20:05:02+05:30' },
+  end: { dateTime: '2018-02-15T22:05:02+05:30' },
+  iCalUID: 'ujrj1llukqt2deaole3meik56g@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"4if5f8opt4sc028ps1t6umbkc8","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396990488000"',
+  id: 'ojnca4qpa13iva7qssip2fpics',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=b2puY2E0cXBhMTNpdmE3cXNzaXAyZnBpY3MgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:14.000Z',
+  updated: '2018-02-09T17:48:15.244Z',
+  summary: 'Codeforces Round #464 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-19T22:05:02+05:30' },
+  end: { dateTime: '2018-02-20T00:05:02+05:30' },
+  iCalUID: 'ojnca4qpa13iva7qssip2fpics@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396990868000"',
+  id: 'krd56vq7v47vd0qsobsdi4cgj4',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=a3JkNTZ2cTd2NDd2ZDBxc29ic2RpNGNnajQgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:14.000Z',
+  updated: '2018-02-09T17:48:15.434Z',
+  summary: 'Codeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-03-04T21:05:02+05:30' },
+  end: { dateTime: '2018-03-04T23:05:02+05:30' },
+  iCalUID: 'krd56vq7v47vd0qsobsdi4cgj4@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396991082000"',
+  id: 'sbh59j1hcqjl6sv2gsg64n89vo',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=c2JoNTlqMWhjcWpsNnN2MmdzZzY0bjg5dm8gOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:14.000Z',
+  updated: '2018-02-09T17:48:15.541Z',
+  summary: 'Codeforces Round #462 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-14T17:35:04+05:30' },
+  end: { dateTime: '2018-02-14T19:35:04+05:30' },
+  iCalUID: 'sbh59j1hcqjl6sv2gsg64n89vo@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"caedacsof1kln88181ol5h7fq0","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"f4vn4qkrfsqdpbt5evrhhqmdlo","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"qh0k2cra01o4nlr35tae363bh4","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"mampevmrku123c47k0o7etqu64","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396993648000"',
+  id: 'mceieqngp03190a2t14dc2g57o',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=bWNlaWVxbmdwMDMxOTBhMnQxNGRjMmc1N28gOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:14.000Z',
+  updated: '2018-02-09T17:48:16.824Z',
+  summary: 'Codeforces Round #465 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-25T20:05:02+05:30' },
+  end: { dateTime: '2018-02-25T22:05:02+05:30' },
+  iCalUID: 'mceieqngp03190a2t14dc2g57o@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"0cg07kff47190nrdere8urrtj0","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036396996602000"',
+  id: 'j4f9c2f9s9jib5aq05mlj0hiuo',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=ajRmOWMyZjlzOWppYjVhcTA1bWxqMGhpdW8gOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-09T17:48:14.000Z',
+  updated: '2018-02-09T17:48:18.301Z',
+  summary: 'Educational Codeforces Round 38 (Rated for Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-16T20:35:02+05:30' },
+  end: { dateTime: '2018-02-16T22:35:02+05:30' },
+  iCalUID: 'j4f9c2f9s9jib5aq05mlj0hiuo@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+List of events on calendar within time-range:
+inside foreachCodeforces Round #462 (Div. 2)   sbh59j1hcqjl6sv2gsg64n89vo
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036491103864000"',
+  id: 'ta3acultvtcvdkufpsv8entsss',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=dGEzYWN1bHR2dGN2ZGt1ZnBzdjhlbnRzc3MgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-10T06:52:31.000Z',
+  updated: '2018-02-10T06:52:31.932Z',
+  summary: 'Codeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-03-04T21:05:02+05:30' },
+  end: { dateTime: '2018-03-04T23:05:02+05:30' },
+  iCalUID: 'ta3acultvtcvdkufpsv8entsss@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+List of events on calendar within time-range:
+inside foreachCodeforces Round #465 (Div. 2)   mceieqngp03190a2t14dc2g57o
+List of events on calendar within time-range:
+inside foreachCodeforces Round #TBA (Div. 2, based on Technocup 2018 Final Round)   krd56vq7v47vd0qsobsdi4cgj4
+List of events on calendar within time-range:
+inside foreachEducational Codeforces Round 38 (Rated for Div. 2)   j4f9c2f9s9jib5aq05mlj0hiuo
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036491104192000"',
+  id: 'i0um368le6oghb7lr6u8550ifc',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=aTB1bTM2OGxlNm9naGI3bHI2dTg1NTBpZmMgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-10T06:52:31.000Z',
+  updated: '2018-02-10T06:52:32.096Z',
+  summary: 'Codeforces Round #465 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-25T20:05:02+05:30' },
+  end: { dateTime: '2018-02-25T22:05:02+05:30' },
+  iCalUID: 'i0um368le6oghb7lr6u8550ifc@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+List of events on calendar within time-range:
+inside foreachCodeforces Round #464 (Div. 2)   ojnca4qpa13iva7qssip2fpics
+List of events on calendar within time-range:
+inside foreachICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)   ujrj1llukqt2deaole3meik56g
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036491104508000"',
+  id: 'abjjtcqe64nntur659droapcs4',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=YWJqanRjcWU2NG5udHVyNjU5ZHJvYXBjczQgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-10T06:52:31.000Z',
+  updated: '2018-02-10T06:52:32.254Z',
+  summary: 'Educational Codeforces Round 38 (Rated for Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-16T20:35:02+05:30' },
+  end: { dateTime: '2018-02-16T22:35:02+05:30' },
+  iCalUID: 'abjjtcqe64nntur659droapcs4@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036491104664000"',
+  id: '0o4p4v8hcforjs0buvl4q3jpbk',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=MG80cDR2OGhjZm9yanMwYnV2bDRxM2pwYmsgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-10T06:52:31.000Z',
+  updated: '2018-02-10T06:52:32.332Z',
+  summary: 'Codeforces Round #464 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-19T22:05:02+05:30' },
+  end: { dateTime: '2018-02-20T00:05:02+05:30' },
+  iCalUID: '0o4p4v8hcforjs0buvl4q3jpbk@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036491105294000"',
+  id: '0kflor03l15oej65v06721ljp0',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=MGtmbG9yMDNsMTVvZWo2NXYwNjcyMWxqcDAgOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-10T06:52:31.000Z',
+  updated: '2018-02-10T06:52:32.647Z',
+  summary: 'ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-15T20:05:02+05:30' },
+  end: { dateTime: '2018-02-15T22:05:02+05:30' },
+  iCalUID: '0kflor03l15oej65v06721ljp0@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"krd56vq7v47vd0qsobsdi4cgj4","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"mceieqngp03190a2t14dc2g57o","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"sbh59j1hcqjl6sv2gsg64n89vo","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"ojnca4qpa13iva7qssip2fpics","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+delete Event:{"eventId":"j4f9c2f9s9jib5aq05mlj0hiuo","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+inserted event:
+{ kind: 'calendar#event',
+  etag: '"3036491107980000"',
+  id: '7q4smj7h1c7ka7n6feg8lrunuo',
+  status: 'confirmed',
+  htmlLink: 'https://www.google.com/calendar/event?eid=N3E0c21qN2gxYzdrYTduNmZlZzhscnVudW8gOGJocHJ2dXJkbWlhdTllZG9qazJta2s1ZzRAZw',
+  created: '2018-02-10T06:52:31.000Z',
+  updated: '2018-02-10T06:52:33.990Z',
+  summary: 'Codeforces Round #462 (Div. 2)',
+  colorId: '11',
+  creator: 
+   { email: 'utkarshserviceaccount@my-project-1496518637663.iam.gserviceaccount.com' },
+  organizer: 
+   { email: '8bhprvurdmiau9edojk2mkk5g4@group.calendar.google.com',
+     displayName: 'codeforces contests',
+     self: true },
+  start: { dateTime: '2018-02-14T17:35:02+05:30' },
+  end: { dateTime: '2018-02-14T19:35:02+05:30' },
+  iCalUID: '7q4smj7h1c7ka7n6feg8lrunuo@google.com',
+  sequence: 0,
+  reminders: { useDefault: true } }
+delete Event:{"eventId":"ujrj1llukqt2deaole3meik56g","statusCode":204,"statusMessage":"No Content","message":"Event deleted successfully"}
+Error: listSingleEvents -{"origin":"Events.list","error":"read ECONNRESET"}
+Error: insertEvent-{"origin":"Events.insert","error":"read ECONNRESET"}
+Error: listSingleEvents -{"origin":"Events.list","error":"read ECONNRESET"}
+Error: insertEvent-{"origin":"Events.insert","error":"read ECONNRESET"}
+Error: listSingleEvents -{"origin":"Events.list","error":"read ECONNRESET"}
+Error: insertEvent-{"origin":"Events.insert","error":"read ECONNRESET"}
+Error: listSingleEvents -{"origin":"Events.list","error":"read ECONNRESET"}
+Error: insertEvent-{"origin":"Events.insert","error":"read ECONNRESET"}
+Error: listSingleEvents -{"origin":"Events.list","error":"read ECONNRESET"}
+Error: insertEvent-{"origin":"Events.insert","error":"read ECONNRESET"}
+Error: listSingleEvents -{"origin":"Events.list","error":"read ECONNRESET"}
+Error: insertEvent-{"origin":"Events.insert","error":"read ECONNRESET"}

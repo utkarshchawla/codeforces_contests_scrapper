@@ -1,0 +1,52 @@
+C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:159:13)
+    at process.exit (internal/process.js:147:15)
+    at monitor (C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (events.js:159:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:12)
+C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:159:13)
+    at process.exit (internal/process.js:147:15)
+    at monitor (C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (events.js:159:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:12)
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at Request._callback (D:\program files\WebStorm 2017.3\projects\codeforces_contests_scrapper\server.js:17:17)
+    at self.callback (D:\program files\WebStorm 2017.3\projects\codeforces_contests_scrapper\node_modules\request\request.js:186:22)
+    at Request.emit (events.js:159:13)
+    at Request.onRequestError (D:\program files\WebStorm 2017.3\projects\codeforces_contests_scrapper\node_modules\request\request.js:878:8)
+    at ClientRequest.emit (events.js:159:13)
+    at Socket.socketErrorListener (_http_client.js:389:9)
+    at Socket.emit (events.js:159:13)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177
+    child.send('shutdown');
+          ^
+
+TypeError: Cannot read property 'send' of null
+    at process.killkid (C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:177:11)
+    at process.emit (events.js:159:13)
+    at process.exit (internal/process.js:147:15)
+    at monitor (C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:99:17)
+    at ChildProcess.<anonymous> (C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js:170:5)
+    at ChildProcess.emit (events.js:159:13)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:12)

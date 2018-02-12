@@ -1,11 +1,10 @@
 {
-  "name": "webscrapper",
+  "name": "codeforces-contests-scrapper",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node ./bin/www"
   },
   "author": "",
   "license": "ISC",
@@ -13,6 +12,7 @@
     "cheerio": "^1.0.0-rc.2",
     "date-and-time": "^0.6.2",
     "express": "^4.16.2",
+    "node-cron": "^1.2.1",
     "node-google-calendar": "^1.1.1",
     "request": "^2.83.0"
   }

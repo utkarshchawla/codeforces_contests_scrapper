@@ -1,0 +1,6 @@
+2018-02-09 23:13:31 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file "D:\program files\WebStorm 2017.3\projects\codeforces_contests_scrapper\server.js" --log "codeforces-contest-scrapper wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-02-09 23:13:32 - Started 9092
+2018-02-09 23:17:50 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file "D:\program files\WebStorm 2017.3\projects\codeforces_contests_scrapper\server.js" --log "codeforces-contest-scrapper wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-02-09 23:17:50 - Started 5044
+2018-02-10 12:22:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\UTKARSH\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file "D:\program files\WebStorm 2017.3\projects\codeforces_contests_scrapper\server.js" --log "codeforces-contest-scrapper wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-02-10 12:22:24 - Started 4496
