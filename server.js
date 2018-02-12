@@ -10,9 +10,8 @@ var cal = new CalendarAPI(CONFIG);
 var calendarId = CONFIG.calendarId.primary;
 
 var url = 'http://codeforces.com/api/contest.list';
-var data = [];
 app.get('/', function (req, response) {
-
+    var data = [];
     request(url, function (err, res, body) {
         body = JSON.parse(body);
         var now = new Date();
